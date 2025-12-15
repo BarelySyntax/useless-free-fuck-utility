@@ -15,3 +15,7 @@ Example output:
 
 # Useless Information
 I will also provide a x86_64 pre-compiled version for Linux only, if you are on other operating systems. You unfortunately need to compile it from source.
+
+# Contributing
+
+This is a GPLv3-licensed project. Feel free to fork and add more absurd technical phrases or simply improvements!
