@@ -10,6 +10,7 @@ Open the terminal and type in (assuming it is in `/bin/` or `~/.local/bin/`):
 Example output:
 
 `Alice was piped into until buffer overflow`
+
 `Table got pointer dereferenced unsafely`
 
 # Useless Information
