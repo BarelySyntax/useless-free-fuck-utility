@@ -23,7 +23,7 @@ To use the **pre-compiled binary** (named `fuck`):
 $ chmod +x fuck
 
 # 2. Run it directly
-$ ./fuck NAME
+$ ./fuck <name>
 ```
 
 To apply **systemwide** (requires root privileges, assuming root. Use `sudo` if you are a user, and assuming you are in the directory where `fuck` is located.)
