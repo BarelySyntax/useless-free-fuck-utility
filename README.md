@@ -1,6 +1,6 @@
 # The Useless Fuck Utility
 
-I made the useless fuck utility, in my free time. It's really useless and worthless, i prefer placing it in `/bin/` for systemwide effects or simply `~/.local/bin/` so that it can easily be accessed.
+I made the useless fuck utility, in my free time. It's really useless and worthless, i prefer placing it in `/bin/` for systemwide effects or simply `~/.local/bin/` so that it can easily be accessed, the license is GPLv3 (obviously).
 
 # USAGE
 Open the terminal and type in (assuming it is in `/bin/` or `~/.local/bin/`):
