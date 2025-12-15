@@ -16,6 +16,32 @@ Example output:
 # Useless Information
 I will also provide a x86_64 pre-compiled version for Linux only, if you are on other operating systems. You unfortunately need to compile it from source.
 
+To use the **pre-compiled binary** (named `fuck`):
+
+```bash
+# 1. Give it executable permission
+$ chmod +x fuck
+
+# 2. Run it directly
+$ ./fuck NAME
+```
+
+To apply **systemwide** (requires root privileges, assuming root. Use `sudo` if you are a user, and assuming you are in the directory where `fuck` is located.)
+
+```bash
+# 1. Copy to /bin/
+$ cp ./fuck /bin/fuck
+```
+To apply for **user-specific** access (assuming you are in the directory where `fuck` is located.)
+
+```bash
+# 1. Create the directory if it doesn't exist (optional, but safe)
+$ mkdir -p ~/.local/bin/
+
+# 2. Copy the executable to your local binary directory
+$ cp ./fuck ~/.local/bin/fuck
+```
+
 # Contributing
 
 This is a GPLv3-licensed project. Feel free to fork and add more absurd technical phrases or simply improvements!
