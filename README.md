@@ -9,8 +9,8 @@ Open the terminal and type in (assuming it is in `/bin/` or `~/.local/bin/`):
 
 Example output:
 
-`lice was piped into until buffer overflow`
+`Alice was piped into until buffer overflow`
 `Table got pointer dereferenced unsafely`
 
-#Useless Information
+# Useless Information
 I will also provide a x86_64 pre-compiled version for Linux only, if you are on other operating systems. You unfortunately need to compile it from source.
