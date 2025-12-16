@@ -1,0 +1,11 @@
+# Ignore the compiled binary
+fuck
+fuck.exe
+
+# Ignore the build directory (where CMake does its work)
+build/
+bin/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
